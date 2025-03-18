@@ -4,7 +4,7 @@ This powerful trading bot is specifically designed for trading new tokens on the
 
 ⚡ Key Features
 
-✅ Real-time monitoring of new tokens on Pump.fun 
+✅ Real-time monitoring of new tokens on Pump.fun
 ✅ Instant token purchases based on predefined criteria
 ✅ Automated selling after a set time interval
 ✅ Filtering by token age and minimum deposit in SOL

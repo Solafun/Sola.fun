@@ -1,4 +1,4 @@
-🔥 Buy - https://app.hel.io/pay/67d9c4c51940965fc86ea835
+🔥 Buy - https://app.hel.io/pay/67d9cfe03744beb1717fc5dc
 
 This powerful trading bot is specifically designed for trading new tokens on the Pump.fun platform in the Solana network. It automatically tracks the launch of new tokens, analyzes key parameters, and executes trades autonomously, giving you a competitive edge over other traders.
 
